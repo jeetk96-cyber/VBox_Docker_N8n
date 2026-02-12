@@ -31,3 +31,10 @@ verify that your user is in the vboxsf group by running sudo adduser $USER vboxs
 
 then change shared clipboard and drag and drop to bidirectional.
 then use sudo reboot to restart the instance
+
+<img width="786" height="557" alt="image" src="https://github.com/user-attachments/assets/88834ddd-070d-459e-be22-0974d703c3a6" />
+
+
+https://dockhand.pro/
+
+<img width="767" height="595" alt="image" src="https://github.com/user-attachments/assets/b2cd4a90-7809-45cb-aa64-1c772dd1c71f" />
